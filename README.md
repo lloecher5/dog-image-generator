@@ -1,2 +1,2 @@
-# dog-image-generator
+# Dog Image Generator
 Dog Image Generator
