@@ -1,0 +1,25 @@
+select {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
+button {
+  display: block;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+
+.dog-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img {
+  flex: 0 0 20%;
+  height: 250px;
+  overflow: hidden;
+  margin: 5px;
+}
